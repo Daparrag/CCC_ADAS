@@ -23,7 +23,7 @@ On the next slides there is additional information how the speed of the car chan
 ### Acceleration Behaviour
 
 
-<img src="images/Throttle.png" alt="Throttle"
+<img src="../images/Throttle.png" alt="Throttle"
 	title="Throttle" width="600" height="400" />
 
 
@@ -31,5 +31,5 @@ On the next slides there is additional information how the speed of the car chan
 
 Full application of the brake will lead to a deceleration of 5.8m/s² (21km/h every second)
 
-<img src="images/Brake.png" alt="Brake"
+<img src="../images/Brake.png" alt="Brake"
 	title="Brake" width="600" height="400" />
